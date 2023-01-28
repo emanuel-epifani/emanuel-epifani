@@ -7,7 +7,7 @@
 <br/>  
 
 
-## In shorts, a Biologist with a passion for Code  
+## In short, a Biologist with a passion for Code  
 - 👨‍💻 I’m a software developer at IOMA, in Turin 🏢  
   
 
