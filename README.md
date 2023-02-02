@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋 I'm Emanuel Epifani!</div>**  
   
 
-#### <div align="center">Jr Full Stack Dev 👨‍💻 Flutter - NestJs - MongoDB</div>  
+#### <div align="center">Jr Full Stack Dev 👨‍💻 Flutter - NestJs - MongoDb</div>  
   
 
 <br/>  
@@ -26,7 +26,7 @@
 ## About me  
 Passionate about Biology, I took a bachelor's degree in "Biological Science". Later on, following my passion for computers and programming I decided to pursue a career in Information Technology by attending a yearly web programming course (1000 hours) and with hands-on experience in the field. After graduating as a programmer, I joined IOMA as a Software Developer, where I still work. 
 
-I work mainly on mobile development (with Flutter) and a bit on the web (with Angular). In my free time instead, I'm trying to learn backend technologies such as Nestjs, with a PostgreSQL or MongoDB database. The stack I know best is Flutter - Nestjs - Postgres, but I use also other languages when there is a need to solve problems.
+I work mainly on mobile development (with Flutter) and a bit on the web (with Angular). In my free time instead, I'm trying to learn backend technologies such as Nestjs, with a PostgreSQL or MongoDB database. The stack I know best is Flutter - Nestjs - MongoDb, but I use also other languages when there is a need to solve problems.
   
   
 
