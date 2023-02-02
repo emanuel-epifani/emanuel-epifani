@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋 I'm Emanuel Epifani!</div>**  
   
 
-#### <div align="center">Jr Full Stack Dev 👨‍💻 Flutter - NestJS - PostgreSql</div>  
+#### <div align="center">Jr Full Stack Dev 👨‍💻 Flutter - NestJs - MongoDB</div>  
   
 
 <br/>  
