@@ -11,7 +11,7 @@
 - 👨‍💻 I’m a software developer at IOMA, in Turin 🏢  
   
 
-- ⌨️ Mainly code in Flutter & Nestjs, sometimes in Angular 💻  
+- ⌨️ Mainly code in Flutter & Nestjs 💻  
   
 
 - ☁️ Sometimes I play with Docker and Kubernetes 🌐  
