@@ -11,7 +11,7 @@
 - 👨‍💻 I’m a software developer at IOMA, in Turin 🏢  
   
 
-- ⌨️ Code mainly in Flutter and Nestjs 💻  
+- ⌨️ Code mainly in Python/NestJs and SqlServer 💻  
   
 
 - ☁️ Sometimes I play with Docker and Kubernetes 🌐  
@@ -24,9 +24,20 @@
 
 
 ## About me  
-Passionate about Biology, I took a bachelor's degree in "Biological Science". Later on, following my passion for computers and programming I decided to pursue a career in Information Technology by attending a yearly web programming course (1000 hours) and with hands-on experience in the field. After graduating as a programmer, I joined IOMA as a Software Developer, where I still work. 
+🙎‍♂️BRIEF HISTORY:
+Passionate about Biology, I took a bachelor's degree in "Biological Science". 
+Later on, following my passion for computers and programming I decided to pursue a career in Information Technology by attending a yearly web programming course (1000 hours) and with hands-on experience in the field. After graduating as a programmer, I joined IOMA as a Software Developer, where I still work. 
 
-I work mainly on mobile development (with Flutter) and a bit on the web (with Angular). In my free time instead, I'm trying to learn backend technologies such as Nestjs, with a PostgreSQL or MongoDB database. The stack I know best is Flutter - Nestjs - MongoDb, but I use also other languages when there is a need to solve problems.
+🧑‍💻 WHAT I KNOW:
+In that role, I worked with various frameworks and technologies, including:
+- Frontend: Angular, Next.js (typescript, html, css)
+- Backend: NestJS, Python
+- Databases: SQL Server, MongoDB
+- DevTools: Intellij Idea / VSCode / Docker /Jira / GitLab & GitHub / Postman ...
+However, my primary focus was on Python and SQL Server for developing a SCADA backend that supervises, controls, and collects data from industrial and automated processes (PLCs) in a 4.0 industry line.
+
+📖 WHAT I THINK:
+I prioritize understanding the fundamentals over tying myself to specific technologies. My approach is rooted in 'first principles thinking', emphasizing that the real difference-makers are foundational concepts, not frameworks. I delve deeply into databases, algorithms, data structures, protocols and infrastructure, believing these are the cornerstones of technological expertise. This focus on basics shapes my perspective and approach in the ever-evolving tech landscape
   
   
 
@@ -50,15 +61,28 @@ I work mainly on mobile development (with Flutter) and a bit on the web (with An
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a> 
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>   
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+## Languages and Tools
+#python
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+#typescript
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+#node
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+#nest
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS" height="50" /></a>
+#postgres
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+#mongodb
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+#git
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+#docker
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+#k8s
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+#linux
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+#bash
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>  
 
