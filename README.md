@@ -52,7 +52,7 @@ I prioritize understanding the fundamentals over tying myself to specific techno
 <a href="https://facebook.com/emanuel.epifani" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/emanuel__epifani" target="_blank">
+<a href="https://instagram.com/emanuel_epifani" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
