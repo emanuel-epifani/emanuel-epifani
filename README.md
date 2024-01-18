@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋 I'm Emanuel Epifani!</div>**
 
 
-#### <div align="center">Software Developer 👨‍💻 Biologist 🧑‍🔬 </div>
+#### <div align="center">Software Developer 👨‍💻  </div><br/>   <div align="center">SBiologist 🧑‍🔬 </div>
 
 
 <br/>  
