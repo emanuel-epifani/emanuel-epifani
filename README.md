@@ -8,14 +8,11 @@
 
 
 ## Briefly, a Biologist with a passion for Code
-- 👨‍💻 I’m a software developer at IOMA, in Turin 🏢
+- 👨‍💻 I’m a software developer at ORBYTA, in Turin 🏢
 
 
-- ⌨️ Code mainly in Python/NestJs and SqlServer 💻
-
-
-- ☁️ Sometimes I play with Docker and Kubernetes 🌐
-
+- ⌨️ Code mainly in Python/Node -> sql/Nosql db 💻
+  
 
 - 🌱 In my (little) free time I like to play basketball 🏀
 
@@ -26,14 +23,13 @@
 ## About me
 🙎‍♂️BRIEF HISTORY:<br/>
 Passionate about Biology, I took a bachelor's degree in "Biological Science".
-Later on, following my passion for computers and programming I decided to pursue a career in Information Technology by attending a yearly web programming course (1000 hours) and with hands-on experience in the field. After graduating as a programmer, I joined IOMA as a Software Developer, where I still work.
+Later on, following my passion for computers and programming I decided to pursue a career in Information Technology by attending a yearly web programming course (1000 hours) and with hands-on experience in the field.
 
 🧑‍💻 WHAT I KNOW:<br/>
-In that role, I worked with various frameworks and technologies, including:<br/>
-- Frontend: Angular, Next.js (typescript, html, css)<br/>
+In my previous experiences I worked with various frameworks and technologies, including:<br/>
+- Frontend: Next.js (typescript, html, css)<br/>
 - Backend: NestJS, Python <br/> 
 - Databases: SQL Server, MongoDB <br/> 
-- DevTools: Intellij Idea / VSCode / Docker /Jira / GitLab & GitHub / Postman ...<br/>
 
 However, my primary focus was on Python and SQL Server for developing a SCADA backend that supervises, controls, and collects data from industrial and automated processes (PLCs) in a 4.0 industry line.
 
