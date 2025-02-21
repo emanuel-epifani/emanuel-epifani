@@ -27,8 +27,8 @@ Later on, following my passion for computers and programming I decided to pursue
 
 🧑‍💻 WHAT I KNOW:<br/>
 In my previous experiences I worked with various frameworks and technologies, including:<br/>
-- Frontend: Next.js (typescript, html, css)<br/>
-- Backend: NestJS, Python <br/> 
+- Frontend: Angular (typescript, html, css)<br/>
+- Backend: NestJS, Django <br/> 
 - Databases: SQL Server, MongoDB <br/> 
 
 However, my primary focus was on Python and SQL Server for developing a SCADA backend that supervises, controls, and collects data from industrial and automated processes (PLCs) in a 4.0 industry line.
